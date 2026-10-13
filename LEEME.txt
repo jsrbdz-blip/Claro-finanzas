@@ -1,0 +1,20 @@
+CLARO v2 — FINANZAS PERSONALES
+
+NOVEDADES:
+- Presupuesto mensual y objetivo de ahorro.
+- Presupuestos por categoría con indicador visual de límite.
+- Selector de mes e historial de gastos de los últimos seis meses.
+- Resumen por categoría.
+- Exportación de movimientos a CSV.
+- Instalación como PWA y caché básica para abrirla sin conexión después de cargarla.
+
+PARA PROBARLA:
+1. Publica el contenido de esta carpeta en un hosting HTTPS (por ejemplo, GitHub Pages).
+2. En Android, abre la URL publicada con Chrome.
+3. Menú ⋮ > Instalar aplicación / Añadir a pantalla de inicio.
+
+IMPORTANTE:
+- Esta versión no es todavía un APK/AAB ni está publicada en Google Play.
+- Los datos se guardan en el almacenamiento local del navegador/dispositivo. No hay cuentas ni sincronización.
+- Exporta tus movimientos a CSV como copia de seguridad.
+- Antes de cobrar por Claro, valida el interés de usuarios reales y prepara una política de privacidad clara.

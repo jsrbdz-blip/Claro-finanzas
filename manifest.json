@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Claro — Finanzas personales",
+  "short_name": "Claro",
+  "description": "Controla tus ingresos, gastos, presupuestos y objetivos de ahorro.",
+  "lang": "es-ES",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f4",
+  "theme_color": "#f7f7f4",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
